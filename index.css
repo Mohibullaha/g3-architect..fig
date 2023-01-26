@@ -223,10 +223,23 @@ font-size: 20px;
     grid-template-columns: 1fr;
    justify-items: center;}
 .btn-m{
-    width: 342px;
+    width: 300px;
     height: 200px;
     border: none;
     border-radius: 10px;
+    background-color: #FF900E;
+   text-align: center;
+   position: relative;
+   left: 950px;
+   top: -220px;
+}
+.btn-head-1{
+    font-size: 45px;
+    color: white;
+}
+.btn-head-2{
+    font-size: 28px;
+    color: white;
 }
 
 
